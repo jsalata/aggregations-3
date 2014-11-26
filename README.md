@@ -24,6 +24,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 1. [Bławat, Adam](https://github.com/ablawat/technologie-nosql/blob/master/zadanie-1.md)
 1. [Komorowski, Szymon](https://github.com/szykom/nosql)
+2. [Sałata, Jakub](https://github.com/jsalata/NoSQL/blob/master/zadanie1.md).[GetGlue](https://github.com/jsalata/NoSQL/blob/master/zadanie2.md)
 
 ### Niezaliczone laboratorium
 
